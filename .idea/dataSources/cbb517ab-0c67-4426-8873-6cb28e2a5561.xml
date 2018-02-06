@@ -1,0 +1,1367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="Olehb92">
+  <database-model serializer="dbm" rdbms="ORACLE" format-version="4.7">
+    <root id="1"/>
+    <schema id="2" parent="1" name="A01468396">
+      <ObjectId>2153</ObjectId>
+      <IntrospectionTimestamp>2018-02-02.18:11:08</IntrospectionTimestamp>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <Current>1</Current>
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="PUBLIC">
+      <ObjectId>1</ObjectId>
+    </schema>
+    <schema id="4" parent="1" name="SYS">
+      <ObjectId>0</ObjectId>
+    </schema>
+    <schema id="5" parent="1" name="SYSTEM">
+      <ObjectId>5</ObjectId>
+    </schema>
+    <schema id="6" parent="1" name="OUTLN">
+      <ObjectId>9</ObjectId>
+    </schema>
+    <schema id="7" parent="1" name="DIP">
+      <ObjectId>14</ObjectId>
+    </schema>
+    <schema id="8" parent="1" name="ORACLE_OCM">
+      <ObjectId>21</ObjectId>
+    </schema>
+    <schema id="9" parent="1" name="DBSNMP">
+      <ObjectId>30</ObjectId>
+    </schema>
+    <schema id="10" parent="1" name="APPQOSSYS">
+      <ObjectId>31</ObjectId>
+    </schema>
+    <schema id="11" parent="1" name="WMSYS">
+      <ObjectId>32</ObjectId>
+    </schema>
+    <schema id="12" parent="1" name="EXFSYS">
+      <ObjectId>42</ObjectId>
+    </schema>
+    <schema id="13" parent="1" name="CTXSYS">
+      <ObjectId>43</ObjectId>
+    </schema>
+    <schema id="14" parent="1" name="XDB">
+      <ObjectId>45</ObjectId>
+    </schema>
+    <schema id="15" parent="1" name="ANONYMOUS">
+      <ObjectId>46</ObjectId>
+    </schema>
+    <schema id="16" parent="1" name="ORDSYS">
+      <ObjectId>53</ObjectId>
+    </schema>
+    <schema id="17" parent="1" name="ORDDATA">
+      <ObjectId>54</ObjectId>
+    </schema>
+    <schema id="18" parent="1" name="ORDPLUGINS">
+      <ObjectId>55</ObjectId>
+    </schema>
+    <schema id="19" parent="1" name="SI_INFORMTN_SCHEMA">
+      <ObjectId>56</ObjectId>
+    </schema>
+    <schema id="20" parent="1" name="MDSYS">
+      <ObjectId>57</ObjectId>
+    </schema>
+    <schema id="21" parent="1" name="OLAPSYS">
+      <ObjectId>61</ObjectId>
+    </schema>
+    <schema id="22" parent="1" name="MDDATA">
+      <ObjectId>65</ObjectId>
+    </schema>
+    <schema id="23" parent="1" name="SPATIAL_WFS_ADMIN_USR">
+      <ObjectId>67</ObjectId>
+    </schema>
+    <schema id="24" parent="1" name="SPATIAL_CSW_ADMIN_USR">
+      <ObjectId>70</ObjectId>
+    </schema>
+    <schema id="25" parent="1" name="SYSMAN">
+      <ObjectId>72</ObjectId>
+    </schema>
+    <schema id="26" parent="1" name="MGMT_VIEW">
+      <ObjectId>74</ObjectId>
+    </schema>
+    <schema id="27" parent="1" name="FLOWS_FILES">
+      <ObjectId>75</ObjectId>
+    </schema>
+    <schema id="28" parent="1" name="APEX_PUBLIC_USER">
+      <ObjectId>76</ObjectId>
+    </schema>
+    <schema id="29" parent="1" name="APEX_030200">
+      <ObjectId>78</ObjectId>
+    </schema>
+    <schema id="30" parent="1" name="OWBSYS">
+      <ObjectId>79</ObjectId>
+    </schema>
+    <schema id="31" parent="1" name="OWBSYS_AUDIT">
+      <ObjectId>83</ObjectId>
+    </schema>
+    <schema id="32" parent="1" name="SCOTT">
+      <ObjectId>84</ObjectId>
+    </schema>
+    <schema id="33" parent="1" name="JAN">
+      <ObjectId>86</ObjectId>
+    </schema>
+    <schema id="34" parent="1" name="SONNECK">
+      <ObjectId>218</ObjectId>
+    </schema>
+    <schema id="35" parent="1" name="BERAN">
+      <ObjectId>219</ObjectId>
+    </schema>
+    <schema id="36" parent="1" name="SCHIKUTA">
+      <ObjectId>220</ObjectId>
+    </schema>
+    <schema id="37" parent="1" name="BEGY">
+      <ObjectId>417</ObjectId>
+    </schema>
+    <schema id="38" parent="1" name="BERANP7">
+      <ObjectId>421</ObjectId>
+    </schema>
+    <schema id="39" parent="1" name="HILDEBT6">
+      <ObjectId>422</ObjectId>
+    </schema>
+    <schema id="40" parent="1" name="MANGLEJ6">
+      <ObjectId>423</ObjectId>
+    </schema>
+    <schema id="41" parent="1" name="KRISLATY">
+      <ObjectId>1197</ObjectId>
+    </schema>
+    <schema id="42" parent="1" name="STANKOJ7">
+      <ObjectId>1201</ObjectId>
+    </schema>
+    <schema id="43" parent="1" name="A1502339">
+      <ObjectId>1741</ObjectId>
+    </schema>
+    <schema id="44" parent="1" name="KRISLAG9">
+      <ObjectId>1762</ObjectId>
+    </schema>
+    <schema id="45" parent="1" name="SCHUETM9">
+      <ObjectId>1763</ObjectId>
+    </schema>
+    <schema id="46" parent="1" name="PITTLB7">
+      <ObjectId>1764</ObjectId>
+    </schema>
+    <schema id="47" parent="1" name="A1308699">
+      <ObjectId>1927</ObjectId>
+    </schema>
+    <schema id="48" parent="1" name="A01004500">
+      <ObjectId>1928</ObjectId>
+    </schema>
+    <schema id="49" parent="1" name="A01247560">
+      <ObjectId>1929</ObjectId>
+    </schema>
+    <schema id="50" parent="1" name="A01348746">
+      <ObjectId>1930</ObjectId>
+    </schema>
+    <schema id="51" parent="1" name="A01363028">
+      <ObjectId>1931</ObjectId>
+    </schema>
+    <schema id="52" parent="1" name="A01363108">
+      <ObjectId>1932</ObjectId>
+    </schema>
+    <schema id="53" parent="1" name="A01206799">
+      <ObjectId>1933</ObjectId>
+    </schema>
+    <schema id="54" parent="1" name="A01309551">
+      <ObjectId>1934</ObjectId>
+    </schema>
+    <schema id="55" parent="1" name="A01448864">
+      <ObjectId>1935</ObjectId>
+    </schema>
+    <schema id="56" parent="1" name="A01327067">
+      <ObjectId>1936</ObjectId>
+    </schema>
+    <schema id="57" parent="1" name="A01447956">
+      <ObjectId>1937</ObjectId>
+    </schema>
+    <schema id="58" parent="1" name="A01469313">
+      <ObjectId>1938</ObjectId>
+    </schema>
+    <schema id="59" parent="1" name="A01404678">
+      <ObjectId>1939</ObjectId>
+    </schema>
+    <schema id="60" parent="1" name="A01426915">
+      <ObjectId>1940</ObjectId>
+    </schema>
+    <schema id="61" parent="1" name="A01447366">
+      <ObjectId>1941</ObjectId>
+    </schema>
+    <schema id="62" parent="1" name="A01447910">
+      <ObjectId>1942</ObjectId>
+    </schema>
+    <schema id="63" parent="1" name="A01400397">
+      <ObjectId>1943</ObjectId>
+    </schema>
+    <schema id="64" parent="1" name="A01302129">
+      <ObjectId>1944</ObjectId>
+    </schema>
+    <schema id="65" parent="1" name="A01504966">
+      <ObjectId>1945</ObjectId>
+    </schema>
+    <schema id="66" parent="1" name="A01576891">
+      <ObjectId>1946</ObjectId>
+    </schema>
+    <schema id="67" parent="1" name="A01505781">
+      <ObjectId>1947</ObjectId>
+    </schema>
+    <schema id="68" parent="1" name="A01506688">
+      <ObjectId>1948</ObjectId>
+    </schema>
+    <schema id="69" parent="1" name="A01507073">
+      <ObjectId>1949</ObjectId>
+    </schema>
+    <schema id="70" parent="1" name="A01577016">
+      <ObjectId>1950</ObjectId>
+    </schema>
+    <schema id="71" parent="1" name="A01634939">
+      <ObjectId>1951</ObjectId>
+    </schema>
+    <schema id="72" parent="1" name="A01634965">
+      <ObjectId>1952</ObjectId>
+    </schema>
+    <schema id="73" parent="1" name="A01253240">
+      <ObjectId>1953</ObjectId>
+    </schema>
+    <schema id="74" parent="1" name="A01634492">
+      <ObjectId>1954</ObjectId>
+    </schema>
+    <schema id="75" parent="1" name="A01201321">
+      <ObjectId>1955</ObjectId>
+    </schema>
+    <schema id="76" parent="1" name="A01026556">
+      <ObjectId>1956</ObjectId>
+    </schema>
+    <schema id="77" parent="1" name="A01363671">
+      <ObjectId>1957</ObjectId>
+    </schema>
+    <schema id="78" parent="1" name="A01220194">
+      <ObjectId>1958</ObjectId>
+    </schema>
+    <schema id="79" parent="1" name="A00928074">
+      <ObjectId>1959</ObjectId>
+    </schema>
+    <schema id="80" parent="1" name="A01246354">
+      <ObjectId>1960</ObjectId>
+    </schema>
+    <schema id="81" parent="1" name="A01368635">
+      <ObjectId>1961</ObjectId>
+    </schema>
+    <schema id="82" parent="1" name="A01306676">
+      <ObjectId>1962</ObjectId>
+    </schema>
+    <schema id="83" parent="1" name="A01227360">
+      <ObjectId>1963</ObjectId>
+    </schema>
+    <schema id="84" parent="1" name="A01404589">
+      <ObjectId>1964</ObjectId>
+    </schema>
+    <schema id="85" parent="1" name="A01408103">
+      <ObjectId>1965</ObjectId>
+    </schema>
+    <schema id="86" parent="1" name="A01468711">
+      <ObjectId>1966</ObjectId>
+    </schema>
+    <schema id="87" parent="1" name="A01568715">
+      <ObjectId>1967</ObjectId>
+    </schema>
+    <schema id="88" parent="1" name="A01502339">
+      <ObjectId>1968</ObjectId>
+    </schema>
+    <schema id="89" parent="1" name="A01426717">
+      <ObjectId>1969</ObjectId>
+    </schema>
+    <schema id="90" parent="1" name="A01563401">
+      <ObjectId>1970</ObjectId>
+    </schema>
+    <schema id="91" parent="1" name="A01526537">
+      <ObjectId>1971</ObjectId>
+    </schema>
+    <schema id="92" parent="1" name="A01526659">
+      <ObjectId>1972</ObjectId>
+    </schema>
+    <schema id="93" parent="1" name="A01634518">
+      <ObjectId>1973</ObjectId>
+    </schema>
+    <schema id="94" parent="1" name="A01629757">
+      <ObjectId>1974</ObjectId>
+    </schema>
+    <schema id="95" parent="1" name="A01646014">
+      <ObjectId>1975</ObjectId>
+    </schema>
+    <schema id="96" parent="1" name="A01628066">
+      <ObjectId>1976</ObjectId>
+    </schema>
+    <schema id="97" parent="1" name="A01635540">
+      <ObjectId>1977</ObjectId>
+    </schema>
+    <schema id="98" parent="1" name="A01639750">
+      <ObjectId>1978</ObjectId>
+    </schema>
+    <schema id="99" parent="1" name="A01642301">
+      <ObjectId>1979</ObjectId>
+    </schema>
+    <schema id="100" parent="1" name="A01028185">
+      <ObjectId>1980</ObjectId>
+    </schema>
+    <schema id="101" parent="1" name="A01628450">
+      <ObjectId>1981</ObjectId>
+    </schema>
+    <schema id="102" parent="1" name="A01000301">
+      <ObjectId>1982</ObjectId>
+    </schema>
+    <schema id="103" parent="1" name="A00942141">
+      <ObjectId>1983</ObjectId>
+    </schema>
+    <schema id="104" parent="1" name="A01277671">
+      <ObjectId>1984</ObjectId>
+    </schema>
+    <schema id="105" parent="1" name="A01268430">
+      <ObjectId>1985</ObjectId>
+    </schema>
+    <schema id="106" parent="1" name="A01306090">
+      <ObjectId>1986</ObjectId>
+    </schema>
+    <schema id="107" parent="1" name="A01207202">
+      <ObjectId>1987</ObjectId>
+    </schema>
+    <schema id="108" parent="1" name="A01129439">
+      <ObjectId>1988</ObjectId>
+    </schema>
+    <schema id="109" parent="1" name="A01400625">
+      <ObjectId>1989</ObjectId>
+    </schema>
+    <schema id="110" parent="1" name="A01451309">
+      <ObjectId>1990</ObjectId>
+    </schema>
+    <schema id="111" parent="1" name="A01449848">
+      <ObjectId>1991</ObjectId>
+    </schema>
+    <schema id="112" parent="1" name="A01463574">
+      <ObjectId>1992</ObjectId>
+    </schema>
+    <schema id="113" parent="1" name="A01504857">
+      <ObjectId>1993</ObjectId>
+    </schema>
+    <schema id="114" parent="1" name="A01504922">
+      <ObjectId>1994</ObjectId>
+    </schema>
+    <schema id="115" parent="1" name="A01549452">
+      <ObjectId>1995</ObjectId>
+    </schema>
+    <schema id="116" parent="1" name="A01506997">
+      <ObjectId>1996</ObjectId>
+    </schema>
+    <schema id="117" parent="1" name="A01567697">
+      <ObjectId>1997</ObjectId>
+    </schema>
+    <schema id="118" parent="1" name="A01563490">
+      <ObjectId>1998</ObjectId>
+    </schema>
+    <schema id="119" parent="1" name="A01563723">
+      <ObjectId>1999</ObjectId>
+    </schema>
+    <schema id="120" parent="1" name="A01550268">
+      <ObjectId>2000</ObjectId>
+    </schema>
+    <schema id="121" parent="1" name="A01634487">
+      <ObjectId>2001</ObjectId>
+    </schema>
+    <schema id="122" parent="1" name="A01638811">
+      <ObjectId>2002</ObjectId>
+    </schema>
+    <schema id="123" parent="1" name="A01635037">
+      <ObjectId>2003</ObjectId>
+    </schema>
+    <schema id="124" parent="1" name="A01628420">
+      <ObjectId>2004</ObjectId>
+    </schema>
+    <schema id="125" parent="1" name="A01636660">
+      <ObjectId>2005</ObjectId>
+    </schema>
+    <schema id="126" parent="1" name="A01535285">
+      <ObjectId>2006</ObjectId>
+    </schema>
+    <schema id="127" parent="1" name="A01630863">
+      <ObjectId>2007</ObjectId>
+    </schema>
+    <schema id="128" parent="1" name="A01225308">
+      <ObjectId>2008</ObjectId>
+    </schema>
+    <schema id="129" parent="1" name="A00828482">
+      <ObjectId>2009</ObjectId>
+    </schema>
+    <schema id="130" parent="1" name="A01249658">
+      <ObjectId>2010</ObjectId>
+    </schema>
+    <schema id="131" parent="1" name="A01302228">
+      <ObjectId>2011</ObjectId>
+    </schema>
+    <schema id="132" parent="1" name="A01268309">
+      <ObjectId>2012</ObjectId>
+    </schema>
+    <schema id="133" parent="1" name="A01269362">
+      <ObjectId>2013</ObjectId>
+    </schema>
+    <schema id="134" parent="1" name="A01308330">
+      <ObjectId>2014</ObjectId>
+    </schema>
+    <schema id="135" parent="1" name="A01407036">
+      <ObjectId>2015</ObjectId>
+    </schema>
+    <schema id="136" parent="1" name="A01363427">
+      <ObjectId>2016</ObjectId>
+    </schema>
+    <schema id="137" parent="1" name="A01367652">
+      <ObjectId>2017</ObjectId>
+    </schema>
+    <schema id="138" parent="1" name="A01402927">
+      <ObjectId>2018</ObjectId>
+    </schema>
+    <schema id="139" parent="1" name="A01449214">
+      <ObjectId>2019</ObjectId>
+    </schema>
+    <schema id="140" parent="1" name="A01449205">
+      <ObjectId>2020</ObjectId>
+    </schema>
+    <schema id="141" parent="1" name="A01548665">
+      <ObjectId>2021</ObjectId>
+    </schema>
+    <schema id="142" parent="1" name="A01407379">
+      <ObjectId>2022</ObjectId>
+    </schema>
+    <schema id="143" parent="1" name="A01468749">
+      <ObjectId>2023</ObjectId>
+    </schema>
+    <schema id="144" parent="1" name="A01503235">
+      <ObjectId>2024</ObjectId>
+    </schema>
+    <schema id="145" parent="1" name="A01325636">
+      <ObjectId>2025</ObjectId>
+    </schema>
+    <schema id="146" parent="1" name="A00920694">
+      <ObjectId>2026</ObjectId>
+    </schema>
+    <schema id="147" parent="1" name="A01505656">
+      <ObjectId>2027</ObjectId>
+    </schema>
+    <schema id="148" parent="1" name="A01506537">
+      <ObjectId>2028</ObjectId>
+    </schema>
+    <schema id="149" parent="1" name="A01568554">
+      <ObjectId>2029</ObjectId>
+    </schema>
+    <schema id="150" parent="1" name="A01568645">
+      <ObjectId>2030</ObjectId>
+    </schema>
+    <schema id="151" parent="1" name="A01634472">
+      <ObjectId>2031</ObjectId>
+    </schema>
+    <schema id="152" parent="1" name="A01644471">
+      <ObjectId>2032</ObjectId>
+    </schema>
+    <schema id="153" parent="1" name="A01636138">
+      <ObjectId>2033</ObjectId>
+    </schema>
+    <schema id="154" parent="1" name="A00917248">
+      <ObjectId>2034</ObjectId>
+    </schema>
+    <schema id="155" parent="1" name="A00103771">
+      <ObjectId>2035</ObjectId>
+    </schema>
+    <schema id="156" parent="1" name="A00325068">
+      <ObjectId>2036</ObjectId>
+    </schema>
+    <schema id="157" parent="1" name="A00904294">
+      <ObjectId>2037</ObjectId>
+    </schema>
+    <schema id="158" parent="1" name="A01250747">
+      <ObjectId>2038</ObjectId>
+    </schema>
+    <schema id="159" parent="1" name="A01308273">
+      <ObjectId>2039</ObjectId>
+    </schema>
+    <schema id="160" parent="1" name="A01026808">
+      <ObjectId>2040</ObjectId>
+    </schema>
+    <schema id="161" parent="1" name="A01448898">
+      <ObjectId>2041</ObjectId>
+    </schema>
+    <schema id="162" parent="1" name="A01368897">
+      <ObjectId>2042</ObjectId>
+    </schema>
+    <schema id="163" parent="1" name="A01268478">
+      <ObjectId>2043</ObjectId>
+    </schema>
+    <schema id="164" parent="1" name="A01467816">
+      <ObjectId>2044</ObjectId>
+    </schema>
+    <schema id="165" parent="1" name="A01449073">
+      <ObjectId>2045</ObjectId>
+    </schema>
+    <schema id="166" parent="1" name="A01406701">
+      <ObjectId>2046</ObjectId>
+    </schema>
+    <schema id="167" parent="1" name="A01468269">
+      <ObjectId>2047</ObjectId>
+    </schema>
+    <schema id="168" parent="1" name="A01405978">
+      <ObjectId>2048</ObjectId>
+    </schema>
+    <schema id="169" parent="1" name="A01449395">
+      <ObjectId>2049</ObjectId>
+    </schema>
+    <schema id="170" parent="1" name="A01501158">
+      <ObjectId>2050</ObjectId>
+    </schema>
+    <schema id="171" parent="1" name="A01502946">
+      <ObjectId>2051</ObjectId>
+    </schema>
+    <schema id="172" parent="1" name="A01426012">
+      <ObjectId>2052</ObjectId>
+    </schema>
+    <schema id="173" parent="1" name="A01427106">
+      <ObjectId>2053</ObjectId>
+    </schema>
+    <schema id="174" parent="1" name="A01505719">
+      <ObjectId>2054</ObjectId>
+    </schema>
+    <schema id="175" parent="1" name="A01527511">
+      <ObjectId>2055</ObjectId>
+    </schema>
+    <schema id="176" parent="1" name="A01521804">
+      <ObjectId>2056</ObjectId>
+    </schema>
+    <schema id="177" parent="1" name="A01505299">
+      <ObjectId>2057</ObjectId>
+    </schema>
+    <schema id="178" parent="1" name="A01563558">
+      <ObjectId>2058</ObjectId>
+    </schema>
+    <schema id="179" parent="1" name="A01527269">
+      <ObjectId>2059</ObjectId>
+    </schema>
+    <schema id="180" parent="1" name="A01638542">
+      <ObjectId>2060</ObjectId>
+    </schema>
+    <schema id="181" parent="1" name="A01640041">
+      <ObjectId>2061</ObjectId>
+    </schema>
+    <schema id="182" parent="1" name="A01005838">
+      <ObjectId>2062</ObjectId>
+    </schema>
+    <schema id="183" parent="1" name="A00953861">
+      <ObjectId>2063</ObjectId>
+    </schema>
+    <schema id="184" parent="1" name="A01151026">
+      <ObjectId>2064</ObjectId>
+    </schema>
+    <schema id="185" parent="1" name="A01302187">
+      <ObjectId>2065</ObjectId>
+    </schema>
+    <schema id="186" parent="1" name="A01202061">
+      <ObjectId>2066</ObjectId>
+    </schema>
+    <schema id="187" parent="1" name="A01300599">
+      <ObjectId>2067</ObjectId>
+    </schema>
+    <schema id="188" parent="1" name="A01106495">
+      <ObjectId>2068</ObjectId>
+    </schema>
+    <schema id="189" parent="1" name="A01468003">
+      <ObjectId>2069</ObjectId>
+    </schema>
+    <schema id="190" parent="1" name="A01449508">
+      <ObjectId>2070</ObjectId>
+    </schema>
+    <schema id="191" parent="1" name="A01449849">
+      <ObjectId>2071</ObjectId>
+    </schema>
+    <schema id="192" parent="1" name="A01503823">
+      <ObjectId>2072</ObjectId>
+    </schema>
+    <schema id="193" parent="1" name="A00929254">
+      <ObjectId>2073</ObjectId>
+    </schema>
+    <schema id="194" parent="1" name="A01507446">
+      <ObjectId>2074</ObjectId>
+    </schema>
+    <schema id="195" parent="1" name="A01563679">
+      <ObjectId>2075</ObjectId>
+    </schema>
+    <schema id="196" parent="1" name="A01505069">
+      <ObjectId>2076</ObjectId>
+    </schema>
+    <schema id="197" parent="1" name="A01506424">
+      <ObjectId>2077</ObjectId>
+    </schema>
+    <schema id="198" parent="1" name="A00929352">
+      <ObjectId>2078</ObjectId>
+    </schema>
+    <schema id="199" parent="1" name="A01251567">
+      <ObjectId>2079</ObjectId>
+    </schema>
+    <schema id="200" parent="1" name="A01563856">
+      <ObjectId>2080</ObjectId>
+    </schema>
+    <schema id="201" parent="1" name="A01427168">
+      <ObjectId>2081</ObjectId>
+    </schema>
+    <schema id="202" parent="1" name="A01569177">
+      <ObjectId>2082</ObjectId>
+    </schema>
+    <schema id="203" parent="1" name="A01634414">
+      <ObjectId>2083</ObjectId>
+    </schema>
+    <schema id="204" parent="1" name="A01651258">
+      <ObjectId>2084</ObjectId>
+    </schema>
+    <schema id="205" parent="1" name="A01646292">
+      <ObjectId>2085</ObjectId>
+    </schema>
+    <schema id="206" parent="1" name="A01636957">
+      <ObjectId>2086</ObjectId>
+    </schema>
+    <schema id="207" parent="1" name="A01641523">
+      <ObjectId>2087</ObjectId>
+    </schema>
+    <schema id="208" parent="1" name="A01615872">
+      <ObjectId>2088</ObjectId>
+    </schema>
+    <schema id="209" parent="1" name="A00510451">
+      <ObjectId>2089</ObjectId>
+    </schema>
+    <schema id="210" parent="1" name="A01001474">
+      <ObjectId>2090</ObjectId>
+    </schema>
+    <schema id="211" parent="1" name="A00947188">
+      <ObjectId>2091</ObjectId>
+    </schema>
+    <schema id="212" parent="1" name="A01204753">
+      <ObjectId>2092</ObjectId>
+    </schema>
+    <schema id="213" parent="1" name="A01204808">
+      <ObjectId>2093</ObjectId>
+    </schema>
+    <schema id="214" parent="1" name="A01302122">
+      <ObjectId>2094</ObjectId>
+    </schema>
+    <schema id="215" parent="1" name="A01249291">
+      <ObjectId>2095</ObjectId>
+    </schema>
+    <schema id="216" parent="1" name="A01249373">
+      <ObjectId>2096</ObjectId>
+    </schema>
+    <schema id="217" parent="1" name="A01249226">
+      <ObjectId>2097</ObjectId>
+    </schema>
+    <schema id="218" parent="1" name="A01225445">
+      <ObjectId>2098</ObjectId>
+    </schema>
+    <schema id="219" parent="1" name="A01404866">
+      <ObjectId>2099</ObjectId>
+    </schema>
+    <schema id="220" parent="1" name="A01363337">
+      <ObjectId>2100</ObjectId>
+    </schema>
+    <schema id="221" parent="1" name="A01208957">
+      <ObjectId>2101</ObjectId>
+    </schema>
+    <schema id="222" parent="1" name="A01405684">
+      <ObjectId>2102</ObjectId>
+    </schema>
+    <schema id="223" parent="1" name="A01500116">
+      <ObjectId>2103</ObjectId>
+    </schema>
+    <schema id="224" parent="1" name="A01500366">
+      <ObjectId>2104</ObjectId>
+    </schema>
+    <schema id="225" parent="1" name="A01505646">
+      <ObjectId>2105</ObjectId>
+    </schema>
+    <schema id="226" parent="1" name="A01502448">
+      <ObjectId>2106</ObjectId>
+    </schema>
+    <schema id="227" parent="1" name="A01568897">
+      <ObjectId>2107</ObjectId>
+    </schema>
+    <schema id="228" parent="1" name="A01503240">
+      <ObjectId>2108</ObjectId>
+    </schema>
+    <schema id="229" parent="1" name="A01506901">
+      <ObjectId>2109</ObjectId>
+    </schema>
+    <schema id="230" parent="1" name="A01508221">
+      <ObjectId>2110</ObjectId>
+    </schema>
+    <schema id="231" parent="1" name="A01568073">
+      <ObjectId>2111</ObjectId>
+    </schema>
+    <schema id="232" parent="1" name="A01568351">
+      <ObjectId>2112</ObjectId>
+    </schema>
+    <schema id="233" parent="1" name="A01636996">
+      <ObjectId>2113</ObjectId>
+    </schema>
+    <schema id="234" parent="1" name="A01643043">
+      <ObjectId>2114</ObjectId>
+    </schema>
+    <schema id="235" parent="1" name="A01627923">
+      <ObjectId>2115</ObjectId>
+    </schema>
+    <schema id="236" parent="1" name="A00303419">
+      <ObjectId>2116</ObjectId>
+    </schema>
+    <schema id="237" parent="1" name="A01063752">
+      <ObjectId>2117</ObjectId>
+    </schema>
+    <schema id="238" parent="1" name="A00707222">
+      <ObjectId>2118</ObjectId>
+    </schema>
+    <schema id="239" parent="1" name="A01046473">
+      <ObjectId>2119</ObjectId>
+    </schema>
+    <schema id="240" parent="1" name="A01108799">
+      <ObjectId>2120</ObjectId>
+    </schema>
+    <schema id="241" parent="1" name="A01105048">
+      <ObjectId>2121</ObjectId>
+    </schema>
+    <schema id="242" parent="1" name="A01204151">
+      <ObjectId>2122</ObjectId>
+    </schema>
+    <schema id="243" parent="1" name="A01267806">
+      <ObjectId>2123</ObjectId>
+    </schema>
+    <schema id="244" parent="1" name="A00927808">
+      <ObjectId>2124</ObjectId>
+    </schema>
+    <schema id="245" parent="1" name="A01300861">
+      <ObjectId>2125</ObjectId>
+    </schema>
+    <schema id="246" parent="1" name="A01303327">
+      <ObjectId>2126</ObjectId>
+    </schema>
+    <schema id="247" parent="1" name="A01246563">
+      <ObjectId>2127</ObjectId>
+    </schema>
+    <schema id="248" parent="1" name="A01508011">
+      <ObjectId>2128</ObjectId>
+    </schema>
+    <schema id="249" parent="1" name="A01448743">
+      <ObjectId>2129</ObjectId>
+    </schema>
+    <schema id="250" parent="1" name="A01226442">
+      <ObjectId>2130</ObjectId>
+    </schema>
+    <schema id="251" parent="1" name="A01449302">
+      <ObjectId>2131</ObjectId>
+    </schema>
+    <schema id="252" parent="1" name="A01546039">
+      <ObjectId>2132</ObjectId>
+    </schema>
+    <schema id="253" parent="1" name="A01501513">
+      <ObjectId>2133</ObjectId>
+    </schema>
+    <schema id="254" parent="1" name="A01546643">
+      <ObjectId>2134</ObjectId>
+    </schema>
+    <schema id="255" parent="1" name="A01549494">
+      <ObjectId>2135</ObjectId>
+    </schema>
+    <schema id="256" parent="1" name="A01576950">
+      <ObjectId>2136</ObjectId>
+    </schema>
+    <schema id="257" parent="1" name="A01634403">
+      <ObjectId>2137</ObjectId>
+    </schema>
+    <schema id="258" parent="1" name="A01555666">
+      <ObjectId>2138</ObjectId>
+    </schema>
+    <schema id="259" parent="1" name="A01556981">
+      <ObjectId>2139</ObjectId>
+    </schema>
+    <schema id="260" parent="1" name="A11728738">
+      <ObjectId>2140</ObjectId>
+    </schema>
+    <schema id="261" parent="1" name="A00702096">
+      <ObjectId>2141</ObjectId>
+    </schema>
+    <schema id="262" parent="1" name="A01152218">
+      <ObjectId>2142</ObjectId>
+    </schema>
+    <schema id="263" parent="1" name="A01201981">
+      <ObjectId>2143</ObjectId>
+    </schema>
+    <schema id="264" parent="1" name="A01209665">
+      <ObjectId>2144</ObjectId>
+    </schema>
+    <schema id="265" parent="1" name="A01400128">
+      <ObjectId>2145</ObjectId>
+    </schema>
+    <schema id="266" parent="1" name="A01406607">
+      <ObjectId>2146</ObjectId>
+    </schema>
+    <schema id="267" parent="1" name="A01506993">
+      <ObjectId>2147</ObjectId>
+    </schema>
+    <schema id="268" parent="1" name="A01503033">
+      <ObjectId>2148</ObjectId>
+    </schema>
+    <schema id="269" parent="1" name="A01506269">
+      <ObjectId>2149</ObjectId>
+    </schema>
+    <schema id="270" parent="1" name="A01427776">
+      <ObjectId>2150</ObjectId>
+    </schema>
+    <schema id="271" parent="1" name="A01332224">
+      <ObjectId>2151</ObjectId>
+    </schema>
+    <schema id="272" parent="1" name="A01469173">
+      <ObjectId>2152</ObjectId>
+    </schema>
+    <schema id="273" parent="1" name="A01563576">
+      <ObjectId>2154</ObjectId>
+    </schema>
+    <schema id="274" parent="1" name="A01569197">
+      <ObjectId>2155</ObjectId>
+    </schema>
+    <schema id="275" parent="1" name="A01502531">
+      <ObjectId>2156</ObjectId>
+    </schema>
+    <schema id="276" parent="1" name="A01325283">
+      <ObjectId>2157</ObjectId>
+    </schema>
+    <schema id="277" parent="1" name="A01504436">
+      <ObjectId>2158</ObjectId>
+    </schema>
+    <schema id="278" parent="1" name="A01507713">
+      <ObjectId>2159</ObjectId>
+    </schema>
+    <schema id="279" parent="1" name="A01630811">
+      <ObjectId>2160</ObjectId>
+    </schema>
+    <schema id="280" parent="1" name="A01631922">
+      <ObjectId>2161</ObjectId>
+    </schema>
+    <schema id="281" parent="1" name="A01637020">
+      <ObjectId>2162</ObjectId>
+    </schema>
+    <schema id="282" parent="1" name="A01629824">
+      <ObjectId>2163</ObjectId>
+    </schema>
+    <schema id="283" parent="1" name="A01645364">
+      <ObjectId>2164</ObjectId>
+    </schema>
+    <schema id="284" parent="1" name="A01638744">
+      <ObjectId>2165</ObjectId>
+    </schema>
+    <schema id="285" parent="1" name="A11726067">
+      <ObjectId>2166</ObjectId>
+    </schema>
+    <schema id="286" parent="1" name="A01063191">
+      <ObjectId>2167</ObjectId>
+    </schema>
+    <schema id="287" parent="1" name="A00604261">
+      <ObjectId>2168</ObjectId>
+    </schema>
+    <schema id="288" parent="1" name="A01000784">
+      <ObjectId>2169</ObjectId>
+    </schema>
+    <schema id="289" parent="1" name="A00842614">
+      <ObjectId>2170</ObjectId>
+    </schema>
+    <schema id="290" parent="1" name="A01368137">
+      <ObjectId>2171</ObjectId>
+    </schema>
+    <schema id="291" parent="1" name="A01052944">
+      <ObjectId>2172</ObjectId>
+    </schema>
+    <schema id="292" parent="1" name="A01263997">
+      <ObjectId>2173</ObjectId>
+    </schema>
+    <schema id="293" parent="1" name="A01349478">
+      <ObjectId>2174</ObjectId>
+    </schema>
+    <schema id="294" parent="1" name="A01226142">
+      <ObjectId>2175</ObjectId>
+    </schema>
+    <schema id="295" parent="1" name="A01460939">
+      <ObjectId>2176</ObjectId>
+    </schema>
+    <schema id="296" parent="1" name="A01500082">
+      <ObjectId>2177</ObjectId>
+    </schema>
+    <schema id="297" parent="1" name="A01407549">
+      <ObjectId>2178</ObjectId>
+    </schema>
+    <schema id="298" parent="1" name="A01501711">
+      <ObjectId>2179</ObjectId>
+    </schema>
+    <schema id="299" parent="1" name="A01546069">
+      <ObjectId>2180</ObjectId>
+    </schema>
+    <schema id="300" parent="1" name="A01503425">
+      <ObjectId>2181</ObjectId>
+    </schema>
+    <schema id="301" parent="1" name="A01342865">
+      <ObjectId>2182</ObjectId>
+    </schema>
+    <schema id="302" parent="1" name="A01634908">
+      <ObjectId>2183</ObjectId>
+    </schema>
+    <schema id="303" parent="1" name="A01351724">
+      <ObjectId>2184</ObjectId>
+    </schema>
+    <schema id="304" parent="1" name="A01641461">
+      <ObjectId>2185</ObjectId>
+    </schema>
+    <schema id="305" parent="1" name="A01637858">
+      <ObjectId>2186</ObjectId>
+    </schema>
+    <schema id="306" parent="1" name="A01636183">
+      <ObjectId>2187</ObjectId>
+    </schema>
+    <schema id="307" parent="1" name="A01628701">
+      <ObjectId>2188</ObjectId>
+    </schema>
+    <schema id="308" parent="1" name="A01637853">
+      <ObjectId>2189</ObjectId>
+    </schema>
+    <schema id="309" parent="1" name="A01636139">
+      <ObjectId>2190</ObjectId>
+    </schema>
+    <schema id="310" parent="1" name="A01621899">
+      <ObjectId>2191</ObjectId>
+    </schema>
+    <schema id="311" parent="1" name="A11713679">
+      <ObjectId>2192</ObjectId>
+    </schema>
+    <schema id="312" parent="1" name="A01425224">
+      <ObjectId>2193</ObjectId>
+    </schema>
+    <schema id="313" parent="1" name="A01468709">
+      <ObjectId>2194</ObjectId>
+    </schema>
+    <schema id="314" parent="1" name="A01503954">
+      <ObjectId>2195</ObjectId>
+    </schema>
+    <schema id="315" parent="1" name="A11771582">
+      <ObjectId>2196</ObjectId>
+    </schema>
+    <schema id="316" parent="1" name="A11773063">
+      <ObjectId>2197</ObjectId>
+    </schema>
+    <schema id="317" parent="1" name="A00725952">
+      <ObjectId>2198</ObjectId>
+    </schema>
+    <schema id="318" parent="1" name="A01403437">
+      <ObjectId>2199</ObjectId>
+    </schema>
+    <schema id="319" parent="1" name="A01168872">
+      <ObjectId>2200</ObjectId>
+    </schema>
+    <schema id="320" parent="1" name="A01404820">
+      <ObjectId>2201</ObjectId>
+    </schema>
+    <schema id="321" parent="1" name="A01277687">
+      <ObjectId>2202</ObjectId>
+    </schema>
+    <schema id="322" parent="1" name="ABDELBAESM28">
+      <ObjectId>2203</ObjectId>
+    </schema>
+    <schema id="323" parent="1" name="SONNECG3">
+      <ObjectId>2204</ObjectId>
+    </schema>
+    <schema id="324" parent="1" name="ADAMENKOA39">
+      <ObjectId>2205</ObjectId>
+    </schema>
+    <schema id="325" parent="1" name="FEDORENKOA91">
+      <ObjectId>2206</ObjectId>
+    </schema>
+    <schema id="326" parent="1" name="A01505015">
+      <ObjectId>2207</ObjectId>
+    </schema>
+    <schema id="327" parent="1" name="XS$NULL">
+      <ObjectId>2147483638</ObjectId>
+    </schema>
+    <sequence id="328" parent="2" name="AUFTRAG_SEQ">
+      <ObjectId>1730506</ObjectId>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <SequenceIdentity>1</SequenceIdentity>
+    </sequence>
+    <table id="329" parent="2" name="ALKOHOL">
+      <ObjectId>1730504</ObjectId>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="330" parent="2" name="AUFTRAG">
+      <ObjectId>1730495</ObjectId>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="331" parent="2" name="BESCHREIBUNG">
+      <ObjectId>1730500</ObjectId>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="332" parent="2" name="BEZAHLUNG">
+      <ObjectId>1730493</ObjectId>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="333" parent="2" name="BKA">
+      <ObjectId>1730497</ObjectId>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="334" parent="2" name="KLIENT">
+      <ObjectId>1730491</ObjectId>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="335" parent="2" name="LIEFERUNG">
+      <ObjectId>1730501</ObjectId>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="336" parent="2" name="PRODUKT">
+      <ObjectId>1730498</ObjectId>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="337" parent="2" name="PRODUKTLIEFERUNG">
+      <ObjectId>1730503</ObjectId>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <table id="338" parent="2" name="TABAK">
+      <ObjectId>1730505</ObjectId>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TemporaryPreserve>1</TemporaryPreserve>
+    </table>
+    <column id="339" parent="329" name="TYP">
+      <Position>1</Position>
+      <DataType>VARCHAR2(30)|0</DataType>
+    </column>
+    <column id="340" parent="329" name="STAERKE">
+      <Position>2</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <column id="341" parent="329" name="PRODUKTID">
+      <Position>3</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <foreign-key id="342" parent="329" name="SYS_C002207242">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>PRODUKTID</ColNames>
+      <RefSchemaName>A01468396</RefSchemaName>
+      <RefTableName>PRODUKT</RefTableName>
+      <RefKeyName>SYS_C002207234</RefKeyName>
+      <OnDelete>restrict</OnDelete>
+    </foreign-key>
+    <column id="343" parent="330" name="AUFTRAGID">
+      <Position>1</Position>
+      <DataType>NUMBER(*)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="344" parent="330" name="PREISSUMME">
+      <Position>2</Position>
+      <DataType>NUMBER(10,2)|0</DataType>
+    </column>
+    <column id="345" parent="330" name="PRODUKTENLISTE">
+      <Position>3</Position>
+      <DataType>VARCHAR2(150)|0</DataType>
+    </column>
+    <index id="346" parent="330" name="SYS_C002207230">
+      <ObjectId>1730496</ObjectId>
+      <NameSurrogate>1</NameSurrogate>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TablespaceName>USERS</TablespaceName>
+      <ColNames>AUFTRAGID</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="347" parent="330" name="SYS_C002207230">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>AUFTRAGID</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <UnderlyingIndexName>SYS_C002207230</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <trigger id="348" parent="330" name="AUFTRAG_ID_TRG">
+      <ObjectId>1730490</ObjectId>
+      <DependsOnIds>117,1730506</DependsOnIds>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <Events>I</Events>
+      <Turn>before-row</Turn>
+    </trigger>
+    <column id="349" parent="331" name="BILD">
+      <Position>1</Position>
+      <DataType>VARCHAR2(150)|0</DataType>
+    </column>
+    <column id="350" parent="331" name="TEXT">
+      <Position>2</Position>
+      <DataType>VARCHAR2(2000)|0</DataType>
+    </column>
+    <column id="351" parent="331" name="PRODUKTID">
+      <Position>3</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <foreign-key id="352" parent="331" name="SYS_C002207236">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>PRODUKTID</ColNames>
+      <RefSchemaName>A01468396</RefSchemaName>
+      <RefTableName>PRODUKT</RefTableName>
+      <RefKeyName>SYS_C002207234</RefKeyName>
+      <OnDelete>restrict</OnDelete>
+    </foreign-key>
+    <column id="353" parent="332" name="BEZID">
+      <Position>1</Position>
+      <DataType>NUMBER(*)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="354" parent="332" name="KREDITKARTE">
+      <Position>2</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <column id="355" parent="332" name="DEBITKARTE">
+      <Position>3</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <index id="356" parent="332" name="SYS_C002207229">
+      <ObjectId>1730494</ObjectId>
+      <NameSurrogate>1</NameSurrogate>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TablespaceName>USERS</TablespaceName>
+      <ColNames>BEZID</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="357" parent="332" name="SYS_C002207229">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>BEZID</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <UnderlyingIndexName>SYS_C002207229</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <column id="358" parent="333" name="EMAIL">
+      <Position>1</Position>
+      <DataType>VARCHAR2(30)|0</DataType>
+    </column>
+    <column id="359" parent="333" name="BEZID">
+      <Position>2</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <column id="360" parent="333" name="AUFTRAGID">
+      <Position>3</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <foreign-key id="361" parent="333" name="SYS_C002207231">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>EMAIL</ColNames>
+      <RefSchemaName>A01468396</RefSchemaName>
+      <RefTableName>KLIENT</RefTableName>
+      <RefKeyName>SYS_C002207228</RefKeyName>
+      <OnDelete>restrict</OnDelete>
+    </foreign-key>
+    <foreign-key id="362" parent="333" name="SYS_C002207232">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>BEZID</ColNames>
+      <RefSchemaName>A01468396</RefSchemaName>
+      <RefTableName>BEZAHLUNG</RefTableName>
+      <RefKeyName>SYS_C002207229</RefKeyName>
+      <OnDelete>restrict</OnDelete>
+    </foreign-key>
+    <foreign-key id="363" parent="333" name="SYS_C002207233">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>AUFTRAGID</ColNames>
+      <RefSchemaName>A01468396</RefSchemaName>
+      <RefTableName>AUFTRAG</RefTableName>
+      <RefKeyName>SYS_C002207230</RefKeyName>
+      <OnDelete>restrict</OnDelete>
+    </foreign-key>
+    <column id="364" parent="334" name="EMAIL">
+      <Position>1</Position>
+      <DataType>VARCHAR2(30)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="365" parent="334" name="PASSWORD">
+      <Position>2</Position>
+      <DataType>VARCHAR2(100)|0</DataType>
+    </column>
+    <column id="366" parent="334" name="NAME">
+      <Position>3</Position>
+      <DataType>VARCHAR2(30)|0</DataType>
+    </column>
+    <column id="367" parent="334" name="ADRESSE">
+      <Position>4</Position>
+      <DataType>VARCHAR2(50)|0</DataType>
+    </column>
+    <index id="368" parent="334" name="SYS_C002207228">
+      <ObjectId>1730492</ObjectId>
+      <NameSurrogate>1</NameSurrogate>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TablespaceName>USERS</TablespaceName>
+      <ColNames>EMAIL</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="369" parent="334" name="SYS_C002207228">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>EMAIL</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <UnderlyingIndexName>SYS_C002207228</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <column id="370" parent="335" name="LIEFERUNG_ID_ONE">
+      <Position>1</Position>
+      <DataType>NUMBER(*)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="371" parent="335" name="LIEFERUNG_ID_TWO">
+      <Position>2</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <index id="372" parent="335" name="SYS_C002207238">
+      <ObjectId>1730502</ObjectId>
+      <NameSurrogate>1</NameSurrogate>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TablespaceName>USERS</TablespaceName>
+      <ColNames>LIEFERUNG_ID_ONE</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="373" parent="335" name="SYS_C002207238">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>LIEFERUNG_ID_ONE</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <UnderlyingIndexName>SYS_C002207238</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="374" parent="335" name="SYS_C002207239">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>LIEFERUNG_ID_TWO</ColNames>
+      <RefSchemaName>A01468396</RefSchemaName>
+      <RefTableName>LIEFERUNG</RefTableName>
+      <RefKeyName>SYS_C002207238</RefKeyName>
+      <OnDelete>restrict</OnDelete>
+    </foreign-key>
+    <column id="375" parent="336" name="PRODUKTID">
+      <Position>1</Position>
+      <DataType>NUMBER(*)|0</DataType>
+      <NotNull>1</NotNull>
+    </column>
+    <column id="376" parent="336" name="PREIS">
+      <Position>2</Position>
+      <DataType>NUMBER(10,2)|0</DataType>
+    </column>
+    <column id="377" parent="336" name="NAME">
+      <Position>3</Position>
+      <DataType>VARCHAR2(150)|0</DataType>
+    </column>
+    <column id="378" parent="336" name="HERSTELLER">
+      <Position>4</Position>
+      <DataType>VARCHAR2(150)|0</DataType>
+    </column>
+    <column id="379" parent="336" name="AUFTRAGID">
+      <Position>5</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <index id="380" parent="336" name="SYS_C002207234">
+      <ObjectId>1730499</ObjectId>
+      <NameSurrogate>1</NameSurrogate>
+      <CreatedTimestamp>2018-02-02.18:10:58</CreatedTimestamp>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <TablespaceName>USERS</TablespaceName>
+      <ColNames>PRODUKTID</ColNames>
+      <Unique>1</Unique>
+    </index>
+    <key id="381" parent="336" name="SYS_C002207234">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>PRODUKTID</ColNames>
+      <InitiallyDeferred>1</InitiallyDeferred>
+      <UnderlyingIndexName>SYS_C002207234</UnderlyingIndexName>
+      <Primary>1</Primary>
+    </key>
+    <foreign-key id="382" parent="336" name="SYS_C002207235">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>AUFTRAGID</ColNames>
+      <RefSchemaName>A01468396</RefSchemaName>
+      <RefTableName>AUFTRAG</RefTableName>
+      <RefKeyName>SYS_C002207230</RefKeyName>
+      <OnDelete>restrict</OnDelete>
+    </foreign-key>
+    <column id="383" parent="337" name="PRODUKTID">
+      <Position>1</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <column id="384" parent="337" name="LIEFERUNG_ID_ONE">
+      <Position>2</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <foreign-key id="385" parent="337" name="SYS_C002207240">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>PRODUKTID</ColNames>
+      <RefSchemaName>A01468396</RefSchemaName>
+      <RefTableName>PRODUKT</RefTableName>
+      <RefKeyName>SYS_C002207234</RefKeyName>
+      <OnDelete>restrict</OnDelete>
+    </foreign-key>
+    <foreign-key id="386" parent="337" name="SYS_C002207241">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>LIEFERUNG_ID_ONE</ColNames>
+      <RefSchemaName>A01468396</RefSchemaName>
+      <RefTableName>LIEFERUNG</RefTableName>
+      <RefKeyName>SYS_C002207238</RefKeyName>
+      <OnDelete>restrict</OnDelete>
+    </foreign-key>
+    <column id="387" parent="338" name="TABAKHARZ">
+      <Position>1</Position>
+      <DataType>VARCHAR2(30)|0</DataType>
+    </column>
+    <column id="388" parent="338" name="NIKOTINE">
+      <Position>2</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <column id="389" parent="338" name="PRODUKTID">
+      <Position>3</Position>
+      <DataType>NUMBER(*)|0</DataType>
+    </column>
+    <foreign-key id="390" parent="338" name="SYS_C002207243">
+      <NameSurrogate>1</NameSurrogate>
+      <ModifiedTimestamp>2018-02-02.18:10:58</ModifiedTimestamp>
+      <ColNames>PRODUKTID</ColNames>
+      <RefSchemaName>A01468396</RefSchemaName>
+      <RefTableName>PRODUKT</RefTableName>
+      <RefKeyName>SYS_C002207234</RefKeyName>
+      <OnDelete>restrict</OnDelete>
+    </foreign-key>
+  </database-model>
+</dataSource>
